@@ -1,0 +1,1 @@
+Welcome to the KCCEMSR Events Website repository! This project is designed to showcase and manage events hosted by KJ's College of Engineering and Management Studies and Research. The website serves as a platform to provide information about upcoming events, past events, and registration details.
